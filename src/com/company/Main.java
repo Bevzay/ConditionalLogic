@@ -27,5 +27,11 @@ public class Main {
             System.out.println("Either or both of the conditions are true");
         }
 
+        boolean isCar = false;
+
+        if (isCar != false) {
+            System.out.println("This is not supposed to happen");
+        }
+
     }
 }
